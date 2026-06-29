@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Serie A Digiventure Co., Ltd. — LEO Seeding Matcher update manifest (GitHub-hosted) -->
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='hhejpehnifhoniafhhkcjffapaokafin'>
+    <updatecheck codebase='https://raw.githubusercontent.com/Amokakeng/leo-seeding/main/leo-seeding-matcher-0.1.3.crx' version='0.1.3' />
+  </app>
+</gupdate>
